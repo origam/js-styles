@@ -2,10 +2,6 @@
   "name": "@origam/styles",
   "main": "dist",
   "version": "0.0.1",
-  "repository": "git://github.com/origam/styles.git",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
   "files": [
     "dist"
   ]
