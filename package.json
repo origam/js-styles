@@ -2,6 +2,7 @@
   "name": "@origam/styles",
   "main": "dist",
   "version": "1.0.0",
+  "license": "GPL-3.0",
   "files": [
     "dist"
   ]
