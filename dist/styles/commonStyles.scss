@@ -40,15 +40,14 @@ along with ORIGAM. If not, see <http://www.gnu.org/licenses/>.
 
   @keyframes slideright {
     from {
-      margin-left: -$indefiniteMarkerWidth;
+      transform: translateX(-100%);
     }
     to {
-      margin-left: 100%;
+      transform: translateX(50%);
     }
   }
 
   .indefinite {
-    margin-left: -$indefiniteMarkerWidth;
     animation-name: slideright;
     animation-duration: 2s;
     animation-iteration-count: infinite;
